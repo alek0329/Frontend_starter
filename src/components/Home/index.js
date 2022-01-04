@@ -11,7 +11,7 @@ function LoggedIn() {
 
   return (
     <div>
-      <h2>Poggers in the chat!</h2>
+      <h2>Poggers in the chat!!</h2>
     </div>
   );
 }
